@@ -1,2 +1,2 @@
 # merlyn
-# A simple CMDB base on Python
+# A simple CMDB base on Python and django
